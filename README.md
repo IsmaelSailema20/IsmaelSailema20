@@ -26,8 +26,8 @@ Soy estudiante de Ingeniería en Software apasionado por el desarrollo de aplica
 - 🎵 **Música**: Me encanta escuchar música para inspirarme y concentrarme mientras trabajo.
 
 ## 🌐 Conéctate conmigo
-- **LinkedIn**: [https://www.linkedin.com/in/ismael-sailema-a04089287/](#)
-- **Portafolio**: [https://ismaelsailema20.github.io/portafolio-personal/](#)
+- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/ismael-sailema-a04089287/)
+- **Portafolio**: [Portafolio de proyectos](https://ismaelsailema20.github.io/portafolio-personal/)
 
 <h2 align="center">⚡ Estadísticas ⚡</h2>
 
