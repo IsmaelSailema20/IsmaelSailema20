@@ -11,9 +11,8 @@ Soy estudiante de Ingeniería en Software apasionado por el desarrollo de aplica
 </div>
 
 ## 🎯 Proyectos Destacados
-- **[Sistema de Facturación](#)**: Proyecto de curso de un Sistema de facturación desarrollado en Java con base de datos. 
-- **[Jungletras](#)**: Proyecto colaborativo de una sopa de letras desarrollado en java. 
-- **[Página web candidata](#)**: Proyecto colaborativo de una página web para la candidata al rectorado de la universidad Técnica de Ambato.
+- **[Sistema de Facturación](https://github.com/W1llAn/ProyectoEstructuraFinal)**: Proyecto de curso de un Sistema de facturación desarrollado en Java con base de datos. 
+- **[Página web candidata](https://github.com/IsmaelSailema20/PaginaWebCandidata)**: Proyecto colaborativo de una página web para la administración de campañas de candidatos.
 
 ## 🌱 Actualmente estoy aprendiendo...
 - Profundizando en **Springboot**, **Tailwind CSS**, **TypeScript** y **React**.
