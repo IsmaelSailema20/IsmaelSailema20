@@ -1,38 +1,83 @@
-
-# Hola, mi nombre es Ismael Sailema 👋
-
-## 👤 Sobre mí
-Soy estudiante de Ingeniería en Software apasionado por el desarrollo de aplicaciones tanto para Frontend como para Backend, cubriendo una amplia variedad de dispositivos. Además de mis estudios formales, disfruto ser autodidacta, explorando nuevas tecnologías y herramientas que me permitan mejorar continuamente mis habilidades en el desarrollo de software.
-
-## ⚒️ Lenguajes, Frameworks y Herramientas
-<div align="center">
-   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,php,python,cpp,mysql,postgresql,nestjs,html,css" /><br>
-   <img src="https://skillicons.dev/icons?i=vscode,react,docker,bootstrap,github,git,notion" />
-</div>
-
-## 🎯 Proyectos Destacados
-- **[Sistema de Facturación](https://github.com/W1llAn/ProyectoEstructuraFinal)**: Proyecto de curso de un Sistema de facturación desarrollado en Java con base de datos. 
-- **[Página web candidata](https://github.com/IsmaelSailema20/PaginaWebCandidata)**: Proyecto colaborativo de una página web para la administración de campañas de candidatos.
-
-## 🌱 Actualmente estoy aprendiendo...
-- Profundizando en **Springboot**, **Tailwind CSS**, **TypeScript** y **React**.
-- Explorando metodologías ágiles y patrones de diseño para mejorar mis procesos de desarrollo.
-
-## 💡 Hobbies y Pasatiempos
-- 🕹️ **Videojuegos**: Disfruto explorar mundos virtuales y desafíos estratégicos.
-- 📚 **Lectura**: Libros de tecnología, ciencia ficción y desarrollo personal.
-- 🌿 **Naturaleza**: Caminar y explorar lugares al aire libre para desconectar y recargar energía.
-- 🎵 **Música**: Me encanta escuchar música para inspirarme y concentrarme mientras trabajo.
-
-## 🌐 Conéctate conmigo
-- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/ismael-sailema-a04089287/)
-- **Portafolio**: [Portafolio de proyectos](https://ismaelsailema20.github.io/portafolio-personal/)
-
-<h2 align="center">⚡ Estadísticas ⚡</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Ismael%20Sailema&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Ingenier%C3%ADa%20en%20Software%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=IsmaelSailema20&count_private=true&show_icons=true&theme=radical&rank_icon=github" alt="Estadísticas de GitHub" /><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelSailema20&count_private=true&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Lenguajes más usados" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=58a6ff&center=true&vCenter=true&multiline=true&width=700&height=50&lines=Construyendo+software+que+marca+la+diferencia+%F0%9F%9A%80)](https://github.com/IsmaelSailema20)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismael--sailema-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-sailema-a04089287/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portafolio-ismaelsailema-1a1b27?style=flat&logo=google-chrome&logoColor=white)](https://ismaelsailema20.github.io/portafolio-personal/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-IsmaelSailema20-181717?style=flat&logo=github&logoColor=white)](https://github.com/IsmaelSailema20)
+&nbsp;&nbsp;
+![Views](https://komarev.com/ghpvc/?username=IsmaelSailema20&color=1a1b27&style=flat&label=Visitas+al+perfil)
+
 </div>
 
+<br>
 
+## ◈ Sobre Mí
+
+Soy estudiante de **Ingeniería en Software** en Ecuador 🇪🇨 con un enfoque integral en el desarrollo de aplicaciones web. Me apasiona tanto el Frontend como el Backend, y busco siempre crear soluciones que combinen **código limpio, arquitectura sólida y experiencias de usuario excepcionales**.
+
+Fuera del código, soy un entusiasta de los videojuegos 🕹️, la lectura de ciencia ficción y tecnología 📚, explorar la naturaleza 🌿 y escuchar música para concentrarme 🎵.
+
+```
+🎓  Estudiante de Ingeniería en Software
+🔭  Trabajando en proyectos web full stack
+🌱  Profundizando en Spring Boot, React y TypeScript
+🧩  Interesado en arquitectura de software y metodologías ágiles
+📍  Ecuador
+```
+
+<br>
+
+## ◈ Stack Tecnológico
+
+<div align="center">
+
+**Lenguajes**
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,php,cpp" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap,html,css" />
+
+**Backend & Bases de Datos**
+
+<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,postgres,mysql" />
+
+**Herramientas & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,notion" />
+
+</div>
+
+<br>
+
+## ◈ Estadísticas de GitHub
+
+<div align="center">
+
+<a href="https://github.com/IsmaelSailema20">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsmaelSailema20&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="Estadísticas de GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/IsmaelSailema20">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsmaelSailema20&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true" alt="Lenguajes más usados" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/IsmaelSailema20">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelSailema20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a1b27&hide_border=true" alt="Gráfico de actividad" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=100&section=footer" width="100%" />
