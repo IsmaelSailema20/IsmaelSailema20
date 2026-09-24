@@ -72,9 +72,7 @@ Fuera del código, soy un entusiasta de los videojuegos 🕹️, la lectura de c
 
 <br><br>
 
-<a href="https://github.com/IsmaelSailema20">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelSailema20&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=1a1b27&hide_border=true" alt="Gráfico de actividad" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=IsmaelSailema20&theme=github-dark-blue&hide_border=true)](https://github.com/IsmaelSailema20)
 
 </div>
 
